@@ -1,7 +1,5 @@
 Convert an image to grayscale.
 
-The code is written for a mini-project of ITCS 5145 Parallel Programming at UNCC.(Q.C.)
-
 To compile the code, we use
         gcc -g -Wall -o color2gray stb_image/stb_image.h stb_image/stb_image_write.h color2gray.c -lm
 
